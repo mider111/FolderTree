@@ -1,5 +1,5 @@
 # FolderTree 
- This method print out a folder tree of the path passed in.
+ This method prints out a folder tree of the path passed in.
 
  Format of the folder tree is:
  ```
